@@ -1,0 +1,14 @@
+{
+  "name": "gpay-notification-logger",
+  "version": "1.0.0",
+  "description": "Google Pay నోటిఫికేషన్‌లను లాగ్ చేయడానికి Node.js సర్వర్",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "మీ పేరు",
+  "license": "MIT"
+}
